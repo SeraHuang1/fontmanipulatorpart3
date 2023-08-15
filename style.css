@@ -1,0 +1,33 @@
+.heading{
+    background-color:rgb(187, 214, 240);
+    color:rgb(29, 31, 148);
+    width: 100%;
+    margin-top: 0px;
+    box-shadow: 15px 15px 40px cadetblue;
+    font-size: 20px;
+    font-family:Tahoma;
+}
+
+.note{
+    font-size: 15px;
+    color:rgb(29, 31, 148);
+    font-family:Tahoma;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    background-color:rgb(174, 220, 228);
+    color: rgb(29, 31, 148);
+    width: 100%;
+    line-height: 2;
+    font-size: 15px;
+    text-align:center;
+    font-family:Tahoma;
+}
+
+canvas{
+    border: 5px dotted rgb(7, 87, 96);
+    border-radius: 20px;
+    box-shadow: 15px 15px 40px rgb(183, 194, 240);
+}
